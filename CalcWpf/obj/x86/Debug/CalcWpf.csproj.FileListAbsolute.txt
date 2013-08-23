@@ -1,0 +1,15 @@
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\bin\Debug\CalcWpf.exe
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\bin\Debug\CalcWpf.pdb
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\Views\CalcView.baml
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\Views\CalcView.g.cs
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\App.g.cs
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\CalcWpf_MarkupCompile.cache
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\CalcWpf.g.resources
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\CalcWpf.Properties.Resources.resources
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\CalcWpf.exe
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\CalcWpf.pdb
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\msobolewska\Documents\Visual Studio 2010\Projects\CalcWpf\CalcWpf\obj\x86\Debug\CalcWpf_MarkupCompile.lref
